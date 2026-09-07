@@ -1,0 +1,9 @@
+{
+  "name": "ci-demo",
+  "version": "1.0.0",
+  "description": "Simple CI/CD learning project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node --test"
+  }
+}
